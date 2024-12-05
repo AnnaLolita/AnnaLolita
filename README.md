@@ -1,3 +1,8 @@
+
+<div style="width: 80%; height: 50vh">
+    ![](IT_Systems.png)
+
+</div>
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A future administrator of secure infrastructures girl power</h3>
 
