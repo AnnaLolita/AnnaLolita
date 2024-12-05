@@ -1,6 +1,6 @@
 
 <div style="width: 80%; height: 50vh">
-    ![](IT_Systems.png)
+    ![](IT_Systems.jpg)
 
 </div>
 <h1 align="center">Hi 👋, I'm Anna</h1>
